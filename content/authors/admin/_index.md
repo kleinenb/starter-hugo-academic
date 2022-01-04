@@ -11,6 +11,11 @@ social:
     icon_pack: fab
     icon: linkedin-in
     link: www.linkedin.com/in/katieleinenbach
+  - display:
+      header: false
+    icon_pack: fab
+    icon: twitter
+    link: "@KatieLeinenbach"
 organizations:
   - name: Emory University
     url: https://www.emory.edu/home/index.html
