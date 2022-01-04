@@ -1,6 +1,6 @@
 ---
 role: Economics Ph.D. Student
-avatar_filename: img_0488.jpg
+avatar_filename: avatar.jpg
 bio: "Katie Leinenbach is a second year Economics Ph.D student at Emory
   University. Before coming to Emory University, she received her Bachelor of
   Science degree in Industrial Engineering from Purdue University. "
