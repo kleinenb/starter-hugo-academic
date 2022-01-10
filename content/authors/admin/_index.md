@@ -2,7 +2,10 @@
 role: Economics Ph.D. Student
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Applied Microeconomics
+  - Health Economics
+  - Industrial Organization
 social:
   - display:
       header: false
@@ -21,7 +24,13 @@ organizations:
     url: https://www.purdue.edu
 education:
   courses:
-    - course: Bachelor of Science in Industrial Engineering
+   - course: PhD in Economics
+      institution: Emory University
+      year: 2025 (expected)
+  - course: MS in Economics
+      institution: Emory University
+      year: 2023 (expected)
+    - course: BS in Industrial Engineering
       institution: Purdue University
       year: 2019
 superuser: true
@@ -29,4 +38,4 @@ highlight_name: true
 title: Katie Leinenbach
 email: ""
 ---
-Katie Leinenbach is a second year Economics Ph.D student at Emory University. Before coming to Emory University, she received her Bachelor of Science degree in Industrial Engineering from Purdue University.
+Katie Leinenbach is a second year Economics Ph.D student at Emory University. Before coming to Emory University, she received her Bachelor of Science degree in Industrial Engineering from Purdue University. Currently she is working as a Research Assistant for Dr. Evan Saltzman and as a Teaching Assistant for Dr. Teddy Kim. 
