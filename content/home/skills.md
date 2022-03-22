@@ -26,7 +26,7 @@ feature:
   name: Statistics
 - description: ''
   icon: code
-  icon_pack: fad
+  icon_pack: fab
   name: Julia
 
 # Uncomment to use emoji icons.
