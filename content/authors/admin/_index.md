@@ -22,17 +22,6 @@ organizations:
     url: https://www.emory.edu/home/index.html
   - name: Purdue University
     url: https://www.purdue.edu
-education:
-  courses:
-   - course: PhD in Economics
-      institution: Emory University
-      year: 2025 (expected)
-  - course: MS in Economics
-      institution: Emory University
-      year: 2023 (expected)
-    - course: BS in Industrial Engineering
-      institution: Purdue University
-      year: 2019
 superuser: true
 highlight_name: true
 title: Katie Leinenbach
