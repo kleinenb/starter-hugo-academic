@@ -6,6 +6,10 @@ interests:
   - Applied Microeconomics
   - Health Economics
   - Industrial Organization
+education:
+   - course: PhD in Economics
+      institution: Emory University
+      year: 2025 (expected)
 social:
   - display:
       header: false
