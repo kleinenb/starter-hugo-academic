@@ -15,12 +15,12 @@ title: Portfolio
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 
-link:
+feature:
 - description: ''
   icon: file-powerpoint
   icon_pack: fas
   name: Module 1 Presentation
-  link: //docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
+  url: //docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
 - description: ''
   icon: tiktok
   icon_pack: fab
