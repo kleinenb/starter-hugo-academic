@@ -26,10 +26,11 @@ feature:
   icon_pack: fab
   name: Digital Artifact Example
   url: https://www.tiktok.com/@econtokk/video/7039736615434030342?is_copy_url=1&is_from_webapp=v1&lang=en
-#- description: ''
-#  icon: code
- # icon_pack: fas
-#  name: Julia
+- description: ''
+  icon: file-pen
+  icon_pack: fas
+  name: Digital Artifact Assignment
+  #url: 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
