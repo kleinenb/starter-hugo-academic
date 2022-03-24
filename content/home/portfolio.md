@@ -19,11 +19,13 @@ feature:
 - description: ''
   icon: file-powerpoint
   icon_pack: fas
-  url: //https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
-#- description: ''
-#  icon: chart-line
- # icon_pack: fas
-#  name: Statistics
+  name: Module 1 Slides
+  url: https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
+- description: ''
+  icon: tiktok
+  icon_pack: fab
+  name: Digital Artifact Example
+  url: https://www.tiktok.com/@econtokk/video/7039736615434030342?is_copy_url=1&is_from_webapp=v1&lang=en
 #- description: ''
 #  icon: code
  # icon_pack: fas
