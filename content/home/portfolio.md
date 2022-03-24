@@ -19,7 +19,7 @@ feature:
 - description: ''
   icon: file-powerpoint
   icon_pack: fas
-  link: //https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
+  url: //https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
 #- description: ''
 #  icon: chart-line
  # icon_pack: fas
