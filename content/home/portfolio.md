@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -11,25 +11,34 @@ weight: 40
 
 title: Portfolio
 subtitle:
+design:
+columns: 1
+
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: ''
-  icon: file-powerpoint
-  icon_pack: fas
-  name: Module 1 Presentation
-  url: https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
-- description: ''
-  icon: tiktok
-  icon_pack: fab
-  name: Digital Artifact Example
-  url: https://www.tiktok.com/@econtokk/video/7039736615434030342?is_copy_url=1&is_from_webapp=v1&lang=en
-- description: ''
-  icon: file
-  icon_pack: fas
-  name: Digital Artifact Assignment
+organizations:
+  - name: Module 1 Presentation
+    url: https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
+  #- name: Purdue University
+   # url: https://www.purdue.edu
+
+#feature:
+#- description: ''
+#  icon: file-powerpoint
+ # icon_pack: fas
+#  name: Module 1 Presentation
+ # url: https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
+#- description: ''
+ # icon: tiktok
+ # icon_pack: fab
+ # name: Digital Artifact Example
+ # url: https://www.tiktok.com/@econtokk/video/7039736615434030342?is_copy_url=1&is_from_webapp=v1&lang=en
+#- description: ''
+ # icon: file
+ # icon_pack: fas
+ # name: Digital Artifact Assignment
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
