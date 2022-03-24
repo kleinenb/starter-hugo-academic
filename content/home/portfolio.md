@@ -27,7 +27,7 @@ feature:
   name: Digital Artifact Example
   url: https://www.tiktok.com/@econtokk/video/7039736615434030342?is_copy_url=1&is_from_webapp=v1&lang=en
 - description: ''
-  icon: file-pen
+  icon: file
   icon_pack: fas
   name: Digital Artifact Assignment
   #link: {{% staticref "uploads/da.pdf" %}}{{% /staticref %}}
