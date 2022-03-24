@@ -17,6 +17,20 @@ social:
     icon_pack: fab
     icon: twitter
     link: //twitter.com/katieleinenbach
+  -display:
+      header: false
+    icon_pack: fas
+    icon: file-powerpoint
+    link: https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
+#- description: ''
+#  icon: tiktok
+#  icon_pack: fab
+#  name: Digital Artifact Example
+#  url: https://www.tiktok.com/@econtokk/video/7039736615434030342?is_copy_url=1&is_from_webapp=v1&lang=en
+#- description: ''
+#  icon: file
+#  icon_pack: fas
+#  name: Digital Artifact Assignment
 organizations:
   - name: Emory University
     url: https://www.emory.edu/home/index.html
