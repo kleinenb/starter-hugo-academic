@@ -18,11 +18,15 @@ columns: 1
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-organizations:
-  - name: Module 1 Presentation
-    url: https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
-  #- name: Purdue University
-   # url: https://www.purdue.edu
+links:
+  - icon_pack: fas
+    icon: file-powerpoint
+    name: Module 1 Presentation
+    url: 'https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true'
+ # - icon_pack: fab
+ #   icon: medium
+  #  name: Originally published on Medium
+  #  url: 'https://medium.com'
 
 #feature:
 #- description: ''
