@@ -16,10 +16,10 @@ title: Portfolio
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 
 feature:
-- description: {{% staticref "uploads/da.pdf" %}}Module 1 Presentation{{% /staticref %}}
+- description: ''
   icon: file-powerpoint
   icon_pack: fas
-  name: ''
+  name: Module 1 Presentation
   url: https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
 - description: ''
   icon: tiktok
