@@ -17,11 +17,6 @@ social:
     icon_pack: fab
     icon: twitter
     link: //twitter.com/katieleinenbach
-  - display:
-      header: false
-    icon_pack: ai
-    icon: cv
-    link: //static/uploads/cv.pdf 
 organizations:
   - name: Emory University
     url: https://www.emory.edu/home/index.html
