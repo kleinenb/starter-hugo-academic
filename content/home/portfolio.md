@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: featurette
 
 # This file represents a page section.
 headless: true
@@ -10,10 +10,6 @@ headless: true
 weight: 40
 
 title: Portfolio
-subtitle:
-design:
-columns: 1
-
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
