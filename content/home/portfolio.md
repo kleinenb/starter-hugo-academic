@@ -29,7 +29,7 @@ feature:
 - description: ''
   icon: file
   icon_pack: fas
-  name: {{% staticref "uploads/da.pdf" %}}Digital Artifact Assignment{{% /staticref %}}
+  name: Digital Artifact Assignment
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
