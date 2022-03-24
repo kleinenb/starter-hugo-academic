@@ -21,7 +21,7 @@ social:
       header: false
     icon_pack: fas
     icon: file-powerpoint
-    link: https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
+    url: https://docs.google.com/presentation/d/1_qf7qU1DYCc83XZaScLh_gvl3YEsiBnT/edit?usp=sharing&ouid=103550313061883698922&rtpof=true&sd=true
 #- description: ''
 #  icon: tiktok
 #  icon_pack: fab
