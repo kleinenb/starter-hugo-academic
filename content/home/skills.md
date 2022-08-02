@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: ''
   icon: cloud
-  icon_pack: fab
+  icon_pack: fas
   name: Cloud Computing
 - description: ''
   icon: code
