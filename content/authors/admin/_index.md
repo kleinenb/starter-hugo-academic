@@ -42,4 +42,4 @@ highlight_name: true
 title: Katie Leinenbach
 email: ""
 ---
-Katie Leinenbach is a third year Economics Ph.D student at Emory University. Before coming to Emory University, she received her Bachelor of Science degree in Industrial Engineering from Purdue University.
+Katie Leinenbach is a fourth year Economics Ph.D candidate at Emory University. Before coming to Emory University, she received her Bachelor of Science degree in Industrial Engineering from Purdue University.
